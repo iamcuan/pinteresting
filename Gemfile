@@ -10,6 +10,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass' 
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'devise', '~> 3.4.1'
+gem 'rubygems-update', '~> 2.4.5'
 
 group :development, :test do
 	gem 'sqlite3'
