@@ -12,7 +12,8 @@ gem 'bootstrap-sass'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', '~> 3.4.1'
 gem 'rubygems-update', '~> 2.4.5'
-gem "paperclip", "~> 4.2"
+gem "paperclip", '~> 4.2'
+gem 'aws-sdk', '~> 2.0.22'
 
 group :development, :test do
 	gem 'sqlite3'
